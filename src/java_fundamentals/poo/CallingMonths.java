@@ -1,5 +1,7 @@
 package java_fundamentals.poo;
-
+/**
+ * This is an example application of Enum elements and foreach items
+ * */
 public class CallingMonths {
     public static void main(String[] args) {
         for(Month Selectedmonth : Month.values()){ //Ejemplo de foreach
